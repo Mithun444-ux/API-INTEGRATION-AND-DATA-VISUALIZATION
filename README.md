@@ -110,3 +110,11 @@ Visualize the data using different types of plots:
 Line plot (for trend)
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/07b5d4ad-2e75-40aa-bded-6e1a9867d1c4)
+
+
+![Image](https://github.com/user-attachments/assets/14a0c28a-4d2c-42e9-ad70-5715842d5cc5)
+
+
+![Image](https://github.com/user-attachments/assets/5db3d8d7-a85f-4fd5-8af3-c4f0bea71ff0)
